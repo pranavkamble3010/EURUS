@@ -22,7 +22,10 @@ type 'bee run'
 
 
 # Screenshots
+* Debates tab
 ![index_debates](https://user-images.githubusercontent.com/47729974/73501443-f7828100-4393-11ea-8158-32692f6a3d07.PNG)
+
+* Discussions tab
 ![index_discussions](https://user-images.githubusercontent.com/47729974/73501444-f7828100-4393-11ea-80b0-b2662ff04af0.PNG)
 ![index_login](https://user-images.githubusercontent.com/47729974/73501445-f7828100-4393-11ea-87cd-d2e1458db789.PNG)
 ![index_questions](https://user-images.githubusercontent.com/47729974/73501446-f7828100-4393-11ea-91bb-16d0a1ef5531.PNG)
