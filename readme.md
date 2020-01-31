@@ -1,5 +1,5 @@
 # EURUS
-  EURUS is a discussion platform with APIs built in GO!
+  EURUS is a discussion platform with APIs built in GO! As we know concurrency control is a key factor in managing the load on the web applications and Golang has intrinsic concurrency control feature which stimulated us to choose Go for our application. It is one of the easiest and fastest programming languages. It is also beginner-friendly language. Also, this language is very simple (i.e. it uses very simple ways) in expressing object orientation, polymorphism, abstraction and generic programming. All these things inspired us to choose Go for our application.
 
 * To install GO -
 https://golang.org/doc/install
