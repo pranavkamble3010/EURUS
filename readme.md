@@ -1,4 +1,5 @@
 # EURUS
+  EURUS is a discussion platform with APIs built in GO!
 
 * To install GO -
 https://golang.org/doc/install
